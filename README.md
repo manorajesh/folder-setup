@@ -7,3 +7,6 @@ Scene Name
    | Exports
    | Scene Files
 </pre>
+---
+## How to Use
+Run this script in the preferred directory and watch the magic happen.
